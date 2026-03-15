@@ -9,7 +9,7 @@ BUY AN EVEN BIGGER BACKPACK AT PIERRE'S FOR ONLY 100,000g! This backpack has 60 
 ## Config
 *Note: run Stardew Valley once with this mod enabled to generate the `config.json` file.*
 
-* `BackpackCost`: How much you have to pay to buy this backpack in the shop. Default = 50000).
+* `BackpackCost`: How much you have to pay to buy this backpack in the shop. Default 48 slots = 50000 and 60 slots costs 100000).
 
 ## Console Commands
 * `player_setbackpacksize slots`: Changes the size of your inventory. Valid values for slots are 12, 24, 36, 48 and 60. Items in the removed slots will be spilled onto the ground.
