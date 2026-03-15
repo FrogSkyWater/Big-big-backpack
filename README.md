@@ -21,6 +21,9 @@ This mod requires the following mods to be installed:
 * [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213)
 
 ## Known bugs
+- For now the 48 slots backpack and 60 slots backpack have the same sprite, and buying these 2 will show the red backpack instead of the custom one.
+- It might return that you don't have enough money but will buy it anyway if you have enough money
+
 Please report bugs on [GitHub](https://github.com/FrogSkyWater/Big_big-backpack/issues) or [Nexus](https://www.nexusmods.com/stardewvalley/mods/1845?tab=bugs).
 
 * This mod does not support android / mobile.
