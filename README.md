@@ -1,4 +1,4 @@
-# Bigger Backpack
+# Bigger Backpack 60 slots
 
 ## Description
 This is a fork of https://github.com/bcmpinc/StardewHack mod BiggerBackpack. All credits goes to @bcmpinc. 
